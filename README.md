@@ -1,3 +1,5 @@
 # am1463-afk.github.io
 
-#test 123
+What I hope to learn from this course:
+1. more of what Software Engineering is
+2. How to work more in teams
